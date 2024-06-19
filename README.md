@@ -66,4 +66,15 @@ Bảng để lưu thông tin về các tuyến đường
 - Điểm bắt đầu của tuyến
 - Điểm kết thúc của tuyến
 - Khoảng cách của tuyến đường
-  
+
+![image](https://github.com/BacNguyen003/BTL_CSDL_QuanLyTuyenXe-Buyt/assets/170489566/9ebc8a3f-8316-4e65-86d7-4fb651260573)
+
+bảng Driver để lưu thông tin về các tài xế
+- ID duy nhất cho mỗi tài xế, tự động tăng
+- Tên tài xế
+- Số giấy phép lái xe
+- Số điện thoại tài xế
+
+
+
+
