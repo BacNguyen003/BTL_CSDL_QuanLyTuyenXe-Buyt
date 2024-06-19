@@ -75,6 +75,21 @@ bảng Driver để lưu thông tin về các tài xế
 - Số giấy phép lái xe
 - Số điện thoại tài xế
 
+![image](https://github.com/BacNguyen003/BTL_CSDL_QuanLyTuyenXe-Buyt/assets/170489566/714c68fd-007e-4971-abba-cad7bc7b1a6b)
+
+bảng Schedule để lưu thông tin lịch trình của các xe buýt
+- ID duy nhất cho mỗi lịch trình, tự động tăng
+- ID xe buýt
+- ID tuyến đường
+- ID tài xế
+- Thời gian khởi hành
+- Thời gian đến
+- Khóa ngoại tới bảng Bus
+- Khóa ngoại tới bảng Route
+- Khóa ngoại tới bảng Driver
+
+
+
 
 
 
