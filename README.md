@@ -52,9 +52,18 @@
 
 # Thiết kế chương trình trong SQL
 ### 1. Tạo các bảng
-- Bảng lưu thông tin các xe bus
+Bảng lưu thông tin các xe bus
 - ID: Khóa chính
 - Biển số xe bus
 - sức chứa xe bus
 - mô hình xe bus
+
+![image](https://github.com/BacNguyen003/BTL_CSDL_QuanLyTuyenXe-Buyt/assets/170489566/b8d4800f-a96b-4dbc-a11f-9bfd6fc632c3)
+
+Bảng để lưu thông tin về các tuyến đường
+- ID duy nhất cho mỗi tuyến đường, tự động tăng
+- Tên tuyến đường
+- Điểm bắt đầu của tuyến
+- Điểm kết thúc của tuyến
+- Khoảng cách của tuyến đường
   
